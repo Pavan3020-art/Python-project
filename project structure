@@ -1,0 +1,10 @@
+personal_finance_manager/
+│
+├── main.py             # Entry point
+├── database.py         # Database setup and operations
+├── user.py             # User authentication module
+├── transactions.py     # Income and expense management
+├── reports.py          # Financial reporting
+├── budget.py           # Budgeting features
+├── utils.py            # Utility functions
+└── README.md           # Documentation
